@@ -1,7 +1,3 @@
-Here’s a structured GitHub description format with proper sections and titles that you can directly use for your repository:
-
----
-
 # **Student Record Management System**  
 An open-source C++ application to manage student records with a user-friendly console interface.
 
