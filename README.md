@@ -19,7 +19,7 @@ An open-source C++ application to manage student records with a user-friendly co
 
 ---
 
-## 🚀 **Overview**  
+## 🚀 Overview
 The **Student Record Management System** is a lightweight, console-based C++ program that enables effective management of student data. It supports adding, displaying, searching, deleting, and persisting student information in a text file (`students.txt`).  
 
 ---
