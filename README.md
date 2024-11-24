@@ -102,17 +102,12 @@ We welcome contributions! Here's how you can help:
 
 ## Contact
 Have questions or feedback? Get in touch!  
-- **GitHub**: [your-username](https://github.com/your-username)  
-- **Email**: your-email@example.com  
+- **GitHub**: [Rohit Poul]([https://github.com/RohitPoul])  
+- **Email**: poulrohit258@gmail.com  
 
 ---
 
 ### 🌟 **Star the Repository**  
 If you found this project helpful or learned something new, don't forget to give it a ⭐ to show your support!
 
---- 
-
-### Notes:  
-1. Replace `Joon_Jelly` and `poulrohit258@gmail.com` with your actual GitHub username and contact details.  
-2. Add an appropriate license file (e.g., MIT) in your repository.  
-3. Create relevant links where needed, such as linking to other repositories or external resources.  
+---
