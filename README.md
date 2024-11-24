@@ -102,8 +102,8 @@ We welcome contributions! Here's how you can help:
 
 ## Contact
 Have questions or feedback? Get in touch!  
-- **GitHub**: [Rohit Poul]([https://github.com/RohitPoul])  
-- **Email**: poulrohit258@gmail.com  
+- GitHub : [Rohit Poul](https://github.com/RohitPoul) 
+- Email : poulrohit258@gmail.com  
 
 ---
 
