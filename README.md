@@ -113,6 +113,6 @@ If you found this project helpful or learned something new, don't forget to give
 --- 
 
 ### Notes:  
-1. Replace `your-username` and `your-email@example.com` with your actual GitHub username and contact details.  
+1. Replace `Joon_Jelly` and `poulrohit258@gmail.com` with your actual GitHub username and contact details.  
 2. Add an appropriate license file (e.g., MIT) in your repository.  
 3. Create relevant links where needed, such as linking to other repositories or external resources.  
