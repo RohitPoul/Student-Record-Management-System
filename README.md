@@ -20,7 +20,7 @@ The **Student Record Management System** is a lightweight, console-based C++ pro
 
 ---
 
-## ✨ **Features**  
+## Features 
 - Add new student records with unique IDs and validate input formats.  
 - Display all students in a formatted, tabular structure.  
 - Search for a specific student by their unique ID.  
@@ -30,14 +30,14 @@ The **Student Record Management System** is a lightweight, console-based C++ pro
 
 ---
 
-## 📂 **Project Structure**  
+## Project Structure
 - **`Student` Class**: Encapsulates student details with getter and setter methods.  
 - **`StudentManager` Class**: Implements CRUD operations, manages file I/O, and handles data storage/retrieval.  
 - **`students.txt`**: A CSV-format file to store and persist student records.  
 
 ---
 
-## 🛠 **Technologies Used**  
+## Technologies Used
 - **C++**: Core programming language for the application.  
 - **Standard Libraries**:  
   - `<iostream>` for input/output operations.  
@@ -49,7 +49,7 @@ The **Student Record Management System** is a lightweight, console-based C++ pro
 
 ---
 
-## 🖥️ **Getting Started**  
+## Getting Started 
 Follow the steps below to set up and run the application on your system:  
 
 ### Clone the Repository  
@@ -72,7 +72,7 @@ Execute the compiled file:
 
 ---
 
-## 🧪 **Usage**  
+## Usage
 1. Launch the application and interact with the menu options:  
    - Add new students.  
    - Search or delete existing records.  
@@ -81,7 +81,7 @@ Execute the compiled file:
 
 ---
 
-## 🤝 **Contributing**  
+## Contributing
 We welcome contributions! Here's how you can help:  
 1. **Fork the Repository**: Create a copy of the repository on your account.  
 2. **Create a Branch**:  
@@ -100,7 +100,7 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📧 **Contact**  
+## Contact
 Have questions or feedback? Get in touch!  
 - **GitHub**: [your-username](https://github.com/your-username)  
 - **Email**: your-email@example.com  
