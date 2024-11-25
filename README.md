@@ -61,7 +61,7 @@ cd student-record-management-system
 ### Build the Project  
 Compile the program using any C++ compiler, such as `g++` or an IDE like Visual Studio. Example using `g++`:  
 ```bash
-g++ main.cpp -o StudentManager.exe
+g++ main.cpp -o Student_Record_Management_System.exe
 ```
 
 ### Run the Program  
