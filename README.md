@@ -54,7 +54,7 @@ Follow the steps below to set up and run the application on your system:
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/your-username/student-record-management-system.git
+git clone https://github.com/RohitPoul/Student-Record-Management-System.git
 cd student-record-management-system
 ```
 
